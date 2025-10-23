@@ -1,0 +1,15 @@
+# START WPFORMS BLOCK
+# ---------------------------
+User-agent: *
+Disallow: http://tavangarx.com/wp-content/uploads/wpforms/
+# ---------------------------
+# END WPFORMS BLOCK
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: http://tavangarx.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
